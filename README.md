@@ -1,4 +1,4 @@
-# 欢迎来到SQL小白的学习笔记
+# 欢迎来到SQL小白的学习笔记（基础+进阶）
 * 本次学习课程为B站黑马程序员系列课程之“MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括”，现在将学习笔记记录在此，方便复习，笔记中如有错误，欢迎指出。
 * [基础部分](https://github.com/shengli666666/MySQL-/tree/main#%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86begining)
 	* [1.SQL概述](https://github.com/shengli666666/MySQL-/tree/main#1sql%E6%A6%82%E8%BF%B0)
