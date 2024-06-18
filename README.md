@@ -1,13 +1,13 @@
 # 欢迎来到SQL小白的学习笔记（基础+进阶）
 * 本次学习课程为B站黑马程序员系列课程之“MySQL数据库入门到精通，从mysql安装到mysql高级、mysql优化全囊括”，现在将学习笔记记录在此，方便复习，笔记中如有错误，欢迎指出。
-* [基础部分](https://github.com/shengli666666/MySQL-/tree/main#%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86begining)
+* [基础部分](https://github.com/shengli666666/MySQL-/tree/main#%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86beginning)
 	* [1.SQL概述](https://github.com/shengli666666/MySQL-/tree/main#1sql%E6%A6%82%E8%BF%B0)
 	* [2.SQL基础以及分类](https://github.com/shengli666666/MySQL-/tree/main#2sql%E5%9F%BA%E7%A1%80%E5%8F%8A%E5%88%86%E7%B1%BB)
 	* [3.SQL基础---函数](https://github.com/shengli666666/MySQL-/tree/main#3sql%E5%9F%BA%E7%A1%80---%E5%87%BD%E6%95%B0)
 	* [4.基础约束](https://github.com/shengli666666/MySQL-/tree/main#4%E5%9F%BA%E7%A1%80%E7%BA%A6%E6%9D%9F)
 	* [5.多表查询](https://github.com/shengli666666/MySQL-/tree/main#5%E5%A4%9A%E8%A1%A8%E6%9F%A5%E8%AF%A2)
 	* [6.事务](https://github.com/shengli666666/MySQL-/tree/main#6%E4%BA%8B%E5%8A%A1)
-* [进阶部分](https://github.com/shengli666666/MySQL-/tree/main#%E8%BF%9B%E9%98%B6%E7%AF%87begining)
+* [进阶部分](https://github.com/shengli666666/MySQL-/tree/main#%E8%BF%9B%E9%98%B6%E7%AF%87beginning)
 	* [1.存储引擎](https://github.com/shengli666666/MySQL-/tree/main#1%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E)
 	* [2.索引](https://github.com/shengli666666/MySQL-/tree/main#2%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86-%E7%B4%A2%E5%BC%95)
 	* [3.SQL优化](https://github.com/shengli666666/MySQL-/tree/main#3%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86-sql%E4%BC%98%E5%8C%96)
@@ -15,7 +15,7 @@
 	* [5.锁](https://github.com/shengli666666/MySQL-/tree/main#5%E7%AC%AC%E4%BA%94%E9%83%A8%E5%88%86-%E9%94%81)
 	* [6.InnoDB引擎](https://github.com/shengli666666/MySQL-/tree/main#6%E7%AC%AC%E5%85%AD%E9%83%A8%E5%88%86-innodb%E5%BC%95%E6%93%8E)
 	* [7.MySQL管理](https://github.com/shengli666666/MySQL-/tree/main#7%E7%AC%AC%E4%B8%83%E9%83%A8%E5%88%86-mysql%E7%AE%A1%E7%90%86)
-# 基础部分begining
+# 基础部分beginning
 ## 1.SQL概述
 数据库 DataBase (DB)
 数据库管理系统 DataBase Management System (DBMs)
@@ -830,7 +830,7 @@ set session transaction isolation level repeatable read ;
 ```
 # 基础部分已完结
 
-# 进阶篇begining
+# 进阶篇beginning
 
 ## 1.第一部分 存储引擎
 ```shell
